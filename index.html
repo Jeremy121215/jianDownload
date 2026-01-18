@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>下载网站导航</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <header>
+        <h1>下载网站导航</h1>
+        <p>找到您需要的各种资源下载</p>
+    </header>
+    
+    <main>
+        <div class="search-container">
+            <input type="text" id="global-search" placeholder="搜索所有分类...">
+            <button id="search-btn">搜索</button>
+        </div>
+        
+        <div class="categories-container" id="categories-container">
+            <!-- 分类导航将通过JavaScript动态加载 -->
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 下载网站导航 | 维护者可以通过编辑data目录下的JSON文件来添加内容</p>
+    </footer>
+    
+    <script src="js/main.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
