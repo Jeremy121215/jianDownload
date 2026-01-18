@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>下载页面</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/download.css">
+</head>
+<body>
+    <header>
+        <h1 id="category-title">下载分类</h1>
+        <a href="index.html" class="back-btn">返回首页</a>
+    </header>
+    
+    <main>
+        <div class="search-container">
+            <input type="text" id="category-search" placeholder="在当前分类中搜索...">
+            <button id="search-btn">搜索</button>
+        </div>
+        
+        <div class="subcategories" id="subcategories">
+            <!-- 子分类筛选将通过JavaScript动态加载 -->
+        </div>
+        
+        <div class="files-container" id="files-container">
+            <!-- 下载文件列表将通过JavaScript动态加载 -->
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 下载网站导航 | 维护者可以通过编辑data目录下的JSON文件来添加内容</p>
+    </footer>
+    
+    <script src="js/main.js"></script>
+    <script src="js/download.js"></script>
+</body>
+</html>
