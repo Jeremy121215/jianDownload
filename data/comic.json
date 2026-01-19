@@ -10,12 +10,12 @@
     ],
     "files": [
         {
-            "id": "名侦探柯南金苹果1~4全篇", /* 书的名字 */
-            "name": "名侦探柯南金苹果1~4全篇.txt", /* 文件名 */
-            "icon": "fas fa-book", /* 图标（不用改） */
+            "id": "名侦探柯南金苹果1~4全篇",
+            "name": "名侦探柯南金苹果1~4全篇.txt",
+            "icon": "fas fa-book",
             "description": "by 星河为梦 001",
-            "subcategory": "Jiancomicfiles", /* id（不用改） */
-            "link": "downloads/comic/名侦探柯南金苹果1~4全篇.txt" /* 要改成路径并上传文件在comic */
+            "subcategory": "Jiancomicfiles",
+            "link": "downloads/comic/名侦探柯南金苹果1~4全篇.txt"
         }
     ]
 }
