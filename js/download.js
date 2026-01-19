@@ -97,7 +97,7 @@ class DownloadPage {
                     </div>
                 </div>
                 <p class="file-description">${file.description}</p>
-                <a href="${file.link}" class="download-btn" target="_blank" rel="noopener noreferrer">
+                <a href="${file.link}" class="download-btn" download>
                     <i class="fas fa-download"></i> 下载
                 </a>
             </div>
