@@ -261,8 +261,8 @@ download/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 项目地址：[]
-- 邮箱：[your-email@example.com]
+- 项目地址：[https://github.com/Jeremy121215/jianDownload/]
+- 邮箱：[xhwm121215@qq.com 或 ]
 
 ---
 
