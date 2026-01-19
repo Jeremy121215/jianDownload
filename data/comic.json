@@ -16,27 +16,6 @@
             "description": "by 星河为梦 001",
             "subcategory": "Jiancomicfiles",
             "link": "downloads/comic/名侦探柯南金苹果1~4全篇.txt"
-        }
-    ]
-}
-{
-    "category": "comic",
-    "name": "漫画资源",
-    "description": "高品质漫画（简漫画）资源",
-    "subcategories": [
-        {
-            "id": "Jiancomicfiles",
-            "name": "简漫画文件"
-        }
-    ],
-    "files": [
-        {
-            "id": "名侦探柯南金苹果1~4全篇",
-            "name": "名侦探柯南金苹果1~4全篇.txt",
-            "icon": "fas fa-book",
-            "description": "by 星河为梦 001",
-            "subcategory": "Jiancomicfiles",
-            "link": "downloads/comic/名侦探柯南金苹果1~4全篇.txt"
         },
         {
             "id": "博人传-火影次世代- 第6话 扯后腿的",
