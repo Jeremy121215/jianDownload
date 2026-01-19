@@ -1,8 +1,8 @@
 [
     {
-        "id": "music",
-        "name": "音乐资源",
-        "icon": "fas fa-music",
-        "description": "高品质音乐下载和音频资源"
+        "id": "comic",
+        "name": "漫画资源",
+        "icon": "fas fa-book",
+        "description": "高品质漫画（简漫画）资源"
     }
 ]
