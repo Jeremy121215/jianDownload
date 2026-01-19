@@ -19,3 +19,33 @@
         }
     ]
 }
+你加一个文件要拷贝一下像这样
+{
+    "category": "comic",
+    "name": "漫画资源",
+    "description": "高品质漫画（简漫画）资源",
+    "subcategories": [
+        {
+            "id": "Jiancomicfiles",
+            "name": "简漫画文件"
+        }
+    ],
+    "files": [
+        {
+            "id": "名侦探柯南金苹果1~4全篇",
+            "name": "名侦探柯南金苹果1~4全篇.txt",
+            "icon": "fas fa-book",
+            "description": "by 星河为梦 001",
+            "subcategory": "Jiancomicfiles",
+            "link": "downloads/comic/名侦探柯南金苹果1~4全篇.txt"
+        },
+        {
+            "id": "博人传-火影次世代- 第6话 扯后腿的",
+            "name": "博人传-火影次世代- 第6话 扯后腿的.txt",
+            "icon": "fas fa-book",
+            "description": "by 星河为梦 001",
+            "subcategory": "Jiancomicfiles",
+            "link": "downloads/comic/博人传-火影次世代- 第6话 扯后腿的.txt"
+        }
+    ]
+}
