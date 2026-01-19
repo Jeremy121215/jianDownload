@@ -74,19 +74,6 @@ download/
    等待部署完成后，通过GitHub Pages提供的URL访问网站
    （格式：https://<username>.github.io/<repository-name>/）
 
-## 如何使用
-
-### 访问网站
-
-1. **首页访问**
-   - 直接访问域名或IP地址，如：http://localhost:8083
-   - 首页显示所有资源分类
-
-2. **分类访问**
-   - 在首页点击对应分类的"进入"按钮
-   - 或直接访问：http://localhost:8083/download.html?category=<分类ID>
-   - 例如：访问图书分类 http://localhost:8083/download.html?category=books
-
 ### 浏览分类
 
 1. **首页分类**
