@@ -1,0 +1,21 @@
+{
+    "category": "comic",
+    "name": "音乐资源",
+    "description": "高品质漫画（简漫画）资源",
+    "subcategories": [
+        {
+            "id": "Jiancomicfiles",
+            "name": "简漫画文件"
+        }
+    ],
+    "files": [
+        {
+            "id": "", // 书的名字
+            "name": ".txt", // 文件名
+            "icon": "fas fa-book", //图标（不用改）
+            "description": "by 星河为梦 001",
+            "subcategory": "Jiancomicfiles", // id（不用改）
+            "link": "downloads/comic/.txt" // 要改成路径并上传文件在comic
+        }
+    ]
+}
